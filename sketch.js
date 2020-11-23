@@ -9,7 +9,7 @@ var gameState="onChain"
 var chance=15;
 var score=0
 var hour
-var bg="bg1.jpg"
+var bg="sprites/bg1.jpg"
 function preload(){
 getBackgroundImg();
 
