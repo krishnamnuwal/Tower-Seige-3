@@ -6,7 +6,7 @@ const Constraint=Matter.Constraint
 var bgImg
 var gbox,sBox,mBox,log,bBox,ball,chain,ground;
 var gameState="onChain"
-var chance=3;
+var chance=15;
 var score=0
 var hour
 var bg="bg1.jpg"
